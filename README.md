@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/vinay-271/LeetCode-Progress/tree/master/0027-remove-element) |
+| [0078-subsets](https://github.com/vinay-271/LeetCode-Progress/tree/master/0078-subsets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -23,4 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/vinay-271/LeetCode-Progress/tree/master/1189-maximum-number-of-balloons) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/vinay-271/LeetCode-Progress/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/vinay-271/LeetCode-Progress/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->

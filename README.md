@@ -19,10 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0771-jewels-and-stones](https://github.com/vinay-271/LeetCode-Progress/tree/master/0771-jewels-and-stones) |
 | [1189-maximum-number-of-balloons](https://github.com/vinay-271/LeetCode-Progress/tree/master/1189-maximum-number-of-balloons) |
 ## String
 |  |
 | ------- |
+| [0771-jewels-and-stones](https://github.com/vinay-271/LeetCode-Progress/tree/master/0771-jewels-and-stones) |
 | [1189-maximum-number-of-balloons](https://github.com/vinay-271/LeetCode-Progress/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vinay-271/LeetCode-Progress/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Counting

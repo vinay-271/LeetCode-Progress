@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/vinay-271/LeetCode-Progress/tree/master/0027-remove-element) |
+| [0039-combination-sum](https://github.com/vinay-271/LeetCode-Progress/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/vinay-271/LeetCode-Progress/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vinay-271/LeetCode-Progress/tree/master/0090-subsets-ii) |
 | [1833-maximum-ice-cream-bars](https://github.com/vinay-271/LeetCode-Progress/tree/master/1833-maximum-ice-cream-bars) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/vinay-271/LeetCode-Progress/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/vinay-271/LeetCode-Progress/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vinay-271/LeetCode-Progress/tree/master/0090-subsets-ii) |
 ## Bit Manipulation

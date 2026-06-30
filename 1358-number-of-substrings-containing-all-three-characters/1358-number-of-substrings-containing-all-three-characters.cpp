@@ -10,10 +10,10 @@ public:
             presence[char(s[right]) - 97]++;
             while(presence[0]!=0 && presence[1]!=0 && presence[2]!=0){
                 count += (s.size() - right);
-                presence[char(s[left]) - 97]--;
+                presence[char(s[left]) - 'a']--;
                 left++;
                 // leftChng = true;
-                continue;
+                // continue;
             }
         }
         return count;

@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/vinay-271/LeetCode-Progress/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/vinay-271/LeetCode-Progress/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vinay-271/LeetCode-Progress/tree/master/0090-subsets-ii) |
+| [1260-shift-2d-grid](https://github.com/vinay-271/LeetCode-Progress/tree/master/1260-shift-2d-grid) |
 | [1833-maximum-ice-cream-bars](https://github.com/vinay-271/LeetCode-Progress/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vinay-271/LeetCode-Progress/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vinay-271/LeetCode-Progress/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -73,4 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/vinay-271/LeetCode-Progress/tree/master/0316-remove-duplicate-letters) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/vinay-271/LeetCode-Progress/tree/master/1260-shift-2d-grid) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/vinay-271/LeetCode-Progress/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->

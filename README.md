@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/vinay-271/LeetCode-Progress/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/vinay-271/LeetCode-Progress/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vinay-271/LeetCode-Progress/tree/master/0090-subsets-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/vinay-271/LeetCode-Progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1260-shift-2d-grid](https://github.com/vinay-271/LeetCode-Progress/tree/master/1260-shift-2d-grid) |
 | [1833-maximum-ice-cream-bars](https://github.com/vinay-271/LeetCode-Progress/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vinay-271/LeetCode-Progress/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/vinay-271/LeetCode-Progress/tree/master/0027-remove-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/vinay-271/LeetCode-Progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Hash Table
 |  |
 | ------- |
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/vinay-271/LeetCode-Progress/tree/master/3499-maximize-active-section-with-trade-i) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/vinay-271/LeetCode-Progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->

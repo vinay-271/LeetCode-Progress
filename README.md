@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/vinay-271/LeetCode-Progress/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vinay-271/LeetCode-Progress/tree/master/0090-subsets-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vinay-271/LeetCode-Progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0611-valid-triangle-number](https://github.com/vinay-271/LeetCode-Progress/tree/master/0611-valid-triangle-number) |
 | [1260-shift-2d-grid](https://github.com/vinay-271/LeetCode-Progress/tree/master/1260-shift-2d-grid) |
 | [1833-maximum-ice-cream-bars](https://github.com/vinay-271/LeetCode-Progress/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vinay-271/LeetCode-Progress/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/vinay-271/LeetCode-Progress/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/vinay-271/LeetCode-Progress/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vinay-271/LeetCode-Progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0611-valid-triangle-number](https://github.com/vinay-271/LeetCode-Progress/tree/master/0611-valid-triangle-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,12 +63,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/vinay-271/LeetCode-Progress/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/vinay-271/LeetCode-Progress/tree/master/0316-remove-duplicate-letters) |
+| [0611-valid-triangle-number](https://github.com/vinay-271/LeetCode-Progress/tree/master/0611-valid-triangle-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/vinay-271/LeetCode-Progress/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vinay-271/LeetCode-Progress/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/vinay-271/LeetCode-Progress/tree/master/0015-3sum) |
+| [0611-valid-triangle-number](https://github.com/vinay-271/LeetCode-Progress/tree/master/0611-valid-triangle-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/vinay-271/LeetCode-Progress/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vinay-271/LeetCode-Progress/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Counting Sort
@@ -101,4 +105,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vinay-271/LeetCode-Progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0611-valid-triangle-number](https://github.com/vinay-271/LeetCode-Progress/tree/master/0611-valid-triangle-number) |
 <!---LeetCode Topics End-->

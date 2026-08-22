@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vinay-271/LeetCode-Progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/vinay-271/LeetCode-Progress/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/vinay-271/LeetCode-Progress/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/vinay-271/LeetCode-Progress/tree/master/0485-max-consecutive-ones) |
 | [0611-valid-triangle-number](https://github.com/vinay-271/LeetCode-Progress/tree/master/0611-valid-triangle-number) |
 | [1260-shift-2d-grid](https://github.com/vinay-271/LeetCode-Progress/tree/master/1260-shift-2d-grid) |
 | [1833-maximum-ice-cream-bars](https://github.com/vinay-271/LeetCode-Progress/tree/master/1833-maximum-ice-cream-bars) |

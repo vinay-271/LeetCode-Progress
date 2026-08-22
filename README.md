@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/vinay-271/LeetCode-Progress/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vinay-271/LeetCode-Progress/tree/master/0090-subsets-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vinay-271/LeetCode-Progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/vinay-271/LeetCode-Progress/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/vinay-271/LeetCode-Progress/tree/master/0283-move-zeroes) |
 | [0611-valid-triangle-number](https://github.com/vinay-271/LeetCode-Progress/tree/master/0611-valid-triangle-number) |
 | [1260-shift-2d-grid](https://github.com/vinay-271/LeetCode-Progress/tree/master/1260-shift-2d-grid) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/vinay-271/LeetCode-Progress/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/vinay-271/LeetCode-Progress/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vinay-271/LeetCode-Progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/vinay-271/LeetCode-Progress/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/vinay-271/LeetCode-Progress/tree/master/0283-move-zeroes) |
 | [0611-valid-triangle-number](https://github.com/vinay-271/LeetCode-Progress/tree/master/0611-valid-triangle-number) |
 ## Hash Table
@@ -111,5 +113,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/vinay-271/LeetCode-Progress/tree/master/0189-rotate-array) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/vinay-271/LeetCode-Progress/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 <!---LeetCode Topics End-->

@@ -116,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/vinay-271/LeetCode-Progress/tree/master/0189-rotate-array) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/vinay-271/LeetCode-Progress/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/vinay-271/LeetCode-Progress/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->

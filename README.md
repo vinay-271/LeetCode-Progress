@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/vinay-271/LeetCode-Progress/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vinay-271/LeetCode-Progress/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vinay-271/LeetCode-Progress/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/vinay-271/LeetCode-Progress/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/vinay-271/LeetCode-Progress/tree/master/0771-jewels-and-stones) |
 | [1189-maximum-number-of-balloons](https://github.com/vinay-271/LeetCode-Progress/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vinay-271/LeetCode-Progress/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/vinay-271/LeetCode-Progress/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
 | ------- |

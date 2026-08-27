@@ -1,6 +1,7 @@
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
+        //sorting first method
         int n = nums.size();
         if(n==1) return nums[0];
 

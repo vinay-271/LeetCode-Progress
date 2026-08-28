@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vinay-271/LeetCode-Progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/vinay-271/LeetCode-Progress/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/vinay-271/LeetCode-Progress/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/vinay-271/LeetCode-Progress/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/vinay-271/LeetCode-Progress/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/vinay-271/LeetCode-Progress/tree/master/0485-max-consecutive-ones) |
 | [0611-valid-triangle-number](https://github.com/vinay-271/LeetCode-Progress/tree/master/0611-valid-triangle-number) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vinay-271/LeetCode-Progress/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/vinay-271/LeetCode-Progress/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/vinay-271/LeetCode-Progress/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/vinay-271/LeetCode-Progress/tree/master/0217-contains-duplicate) |
 | [0771-jewels-and-stones](https://github.com/vinay-271/LeetCode-Progress/tree/master/0771-jewels-and-stones) |
 | [1189-maximum-number-of-balloons](https://github.com/vinay-271/LeetCode-Progress/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vinay-271/LeetCode-Progress/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/vinay-271/LeetCode-Progress/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/vinay-271/LeetCode-Progress/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/vinay-271/LeetCode-Progress/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/vinay-271/LeetCode-Progress/tree/master/0217-contains-duplicate) |
 | [0611-valid-triangle-number](https://github.com/vinay-271/LeetCode-Progress/tree/master/0611-valid-triangle-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/vinay-271/LeetCode-Progress/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vinay-271/LeetCode-Progress/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |

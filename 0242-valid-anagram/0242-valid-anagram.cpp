@@ -1,6 +1,7 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
+        if(s.size() != t.size()) return false;
         unordered_map<char,int> hash;
         for(char ch : s){
             hash[ch]++;
@@ -8,9 +9,6 @@ public:
         for(char ch : t){
             if(hash[ch] == 0) return false;
             hash[ch]--;
-        }
-        for(const auto &[_,count] : hash){
-            if(count) return false;
         }
         return true;
     }

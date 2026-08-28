@@ -4,11 +4,11 @@ public:
         int min = INT_MAX;
         int profit = 0;
 
-        for(int price : prices){
-            if(price < min){
-                min = price;
+        for(int i=0 ; i<prices.size() ; i++){
+            if(prices[i] < min){
+                min = prices[i];
             }
-            profit = max(profit , (price-min));
+            profit = max(profit , (prices[i]-min));
         }
         return profit;
     }

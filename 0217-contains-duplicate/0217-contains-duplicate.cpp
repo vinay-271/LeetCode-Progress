@@ -6,7 +6,7 @@ public:
 
         unordered_set<int> hash;
         for(int num : nums){
-            if(hash.count(num)) return true;
+            if(hash.contains(num)) return true;
             else{
                 hash.insert(num);
             }

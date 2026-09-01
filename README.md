@@ -132,12 +132,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/vinay-271/LeetCode-Progress/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vinay-271/LeetCode-Progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0611-valid-triangle-number](https://github.com/vinay-271/LeetCode-Progress/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/vinay-271/LeetCode-Progress/tree/master/0704-binary-search) |
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/vinay-271/LeetCode-Progress/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/vinay-271/LeetCode-Progress/tree/master/0189-rotate-array) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/vinay-271/LeetCode-Progress/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Linked List
@@ -178,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/vinay-271/LeetCode-Progress/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vinay-271/LeetCode-Progress/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/vinay-271/LeetCode-Progress/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->

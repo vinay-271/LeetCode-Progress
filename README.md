@@ -211,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/vinay-271/LeetCode-Progress/tree/master/0100-same-tree) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/vinay-271/LeetCode-Progress/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->

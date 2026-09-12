@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/vinay-271/LeetCode-Progress/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vinay-271/LeetCode-Progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0278-first-bad-version](https://github.com/vinay-271/LeetCode-Progress/tree/master/0278-first-bad-version) |
 | [0611-valid-triangle-number](https://github.com/vinay-271/LeetCode-Progress/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/vinay-271/LeetCode-Progress/tree/master/0704-binary-search) |
 ## Math
@@ -219,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/vinay-271/LeetCode-Progress/tree/master/0175-combine-two-tables) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/vinay-271/LeetCode-Progress/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->

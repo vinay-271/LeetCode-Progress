@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/vinay-271/LeetCode-Progress/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/vinay-271/LeetCode-Progress/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/vinay-271/LeetCode-Progress/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/vinay-271/LeetCode-Progress/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/vinay-271/LeetCode-Progress/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/vinay-271/LeetCode-Progress/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/vinay-271/LeetCode-Progress/tree/master/0733-flood-fill) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/vinay-271/LeetCode-Progress/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vinay-271/LeetCode-Progress/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/vinay-271/LeetCode-Progress/tree/master/0383-ransom-note) |
+| [0560-subarray-sum-equals-k](https://github.com/vinay-271/LeetCode-Progress/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/vinay-271/LeetCode-Progress/tree/master/0771-jewels-and-stones) |
 | [1189-maximum-number-of-balloons](https://github.com/vinay-271/LeetCode-Progress/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vinay-271/LeetCode-Progress/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -248,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/vinay-271/LeetCode-Progress/tree/master/0278-first-bad-version) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/vinay-271/LeetCode-Progress/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->

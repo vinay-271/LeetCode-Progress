@@ -8,6 +8,13 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+
+
+//  Implemented repeatedly merging 2 linked lists result and lists[i]. Time complexity = O(N*k)
+
+
+
+// Need to learn More efficient techniques of DIVIDE & CONQUER and MIN HEAP algorithm.
 class Solution {
 public:
 

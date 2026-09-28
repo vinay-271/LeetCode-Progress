@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/vinay-271/LeetCode-Progress/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/vinay-271/LeetCode-Progress/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/vinay-271/LeetCode-Progress/tree/master/0189-rotate-array) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/vinay-271/LeetCode-Progress/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/vinay-271/LeetCode-Progress/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/vinay-271/LeetCode-Progress/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/vinay-271/LeetCode-Progress/tree/master/0234-palindrome-linked-list) |
 ## Floyd's Cycle Finding Algorithm

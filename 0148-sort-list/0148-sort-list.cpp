@@ -27,8 +27,8 @@ public:
         if(!head1 || !head2) return (head1==nullptr)? head2 : head1;
 
         ListNode *temp1 = head1 , *temp2 = head2;
-        ListNode *dummyHead = new ListNode();
-        ListNode *temp = dummyHead;
+        ListNode dummyHead(0);
+        ListNode *temp = &dummyHead;
 
         while(temp1 && temp2){
             if(temp1->val >= temp2->val){
@@ -51,7 +51,7 @@ public:
             temp->next = temp2;
         }
 
-        return dummyHead->next;
+        return dummyHead.next;
     }
 
     ListNode* mid(ListNode* head){

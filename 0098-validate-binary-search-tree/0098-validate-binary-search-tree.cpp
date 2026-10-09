@@ -14,27 +14,19 @@ public:
     bool isValidBST(TreeNode* root) {
         if(!root) return true;
 
-        // if(root->left){
-        //     if(root->left->val >= root->val) return false;
-        // }
-        // if(root->right){
-        //     if(root->right->val <= root->val) return false;
-        // }
-        // return (isValidBST(root->left) && isValidBST(root->right));
-        vector<int> inorder;
-        traverse(root,inorder);
-
-        for(int i=1 ; i<inorder.size() ; i++){
-            if(inorder[i] <= inorder[i-1]) return false;
-        }
-        return true;
+        TreeNode *prev = nullptr;
+        return traverse(root , prev);
     }
 
-    void traverse(TreeNode* root , vector<int> &arr){
-        if(!root) return;
+    bool traverse(TreeNode* root , TreeNode *&prev){
+        if(!root) return true;
 
-        traverse(root->left , arr);
-        arr.push_back(root->val);
-        traverse(root->right , arr);
+        bool leftSubtree = traverse(root->left , prev);
+        if(prev && (root->val <= prev->val)) return false;
+        prev = root;
+        bool rightSubtree = traverse(root->right , prev);
+        
+        return leftSubtree && rightSubtree;
+
     }
 };

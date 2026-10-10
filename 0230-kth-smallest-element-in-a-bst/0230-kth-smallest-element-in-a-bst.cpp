@@ -14,17 +14,17 @@ public:
     int kthSmallest(TreeNode* root, int k) {
         int count = 0;
         int ans = -1;
-        traverse(root , &count , k , &ans);
+        traverse(root , count , k , ans);
         return ans;
     }
 
-    void traverse(TreeNode *root , int *count , int k , int *ans){
-        if(!root || *count > k) return;
+    void traverse(TreeNode *root , int& count , int k , int& ans){
+        if(!root || count >= k) return;
 
         traverse(root->left , count , k , ans);
-        (*count)++;
-        if(*count == k){
-            *ans = root->val;
+        count++;
+        if(count == k){
+            ans = root->val;
             return;
         }
         traverse(root->right , count , k , ans);

@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/vinay-271/LeetCode-Progress/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/vinay-271/LeetCode-Progress/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/vinay-271/LeetCode-Progress/tree/master/0733-flood-fill) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vinay-271/LeetCode-Progress/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1260-shift-2d-grid](https://github.com/vinay-271/LeetCode-Progress/tree/master/1260-shift-2d-grid) |
 | [1833-maximum-ice-cream-bars](https://github.com/vinay-271/LeetCode-Progress/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vinay-271/LeetCode-Progress/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -144,10 +145,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/vinay-271/LeetCode-Progress/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/vinay-271/LeetCode-Progress/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/vinay-271/LeetCode-Progress/tree/master/0316-remove-duplicate-letters) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vinay-271/LeetCode-Progress/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/vinay-271/LeetCode-Progress/tree/master/0316-remove-duplicate-letters) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vinay-271/LeetCode-Progress/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Matrix
 |  |
 | ------- |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vinay-271/LeetCode-Progress/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/vinay-271/LeetCode-Progress/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/vinay-271/LeetCode-Progress/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vinay-271/LeetCode-Progress/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -283,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vinay-271/LeetCode-Progress/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/vinay-271/LeetCode-Progress/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/vinay-271/LeetCode-Progress/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vinay-271/LeetCode-Progress/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Database
 |  |
 | ------- |
@@ -329,4 +334,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vinay-271/LeetCode-Progress/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/vinay-271/LeetCode-Progress/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/vinay-271/LeetCode-Progress/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vinay-271/LeetCode-Progress/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
